@@ -1,0 +1,13 @@
+## Tools & Libraries
+
+- Python
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- statsmodels
+- imbalanced-learn (SMOTE)
+- xgboost
+
+
